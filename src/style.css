@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(116, 147, 240);
+}
+
+.contact-card {
+  display: flex;
+  padding: 10px;
+  color: #ffffff;
+  background-color: rgb(42, 84, 104);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 10px 10px 25px -16px rgba(0, 0, 0, .75);
+  border-radius: 10px;
+  max-width: 500px;
+  max-height: 125px;
+  margin: 10px 0 10px 10px;
+}
+
+.contact-card p {
+  margin-left: 10px;
+  margin-top: 0;
+}
+
+button {
+  margin-left: 5px;
+  margin-bottom: 5px;
+  background-color: rgba(0, 0, 0, .1);
+  border: none;
+  padding: 5px;
+  border-radius: 8px;
+}
